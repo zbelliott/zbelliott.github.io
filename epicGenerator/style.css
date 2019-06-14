@@ -7,6 +7,14 @@ body {
   font-size: x-large;
 }
 
+a:link {
+    color: blue
+}
+
+a:visited {
+    color: red
+}
+
 /*the title*/
 h1 {
 	color: red;
@@ -24,5 +32,5 @@ h1 {
 }
 
 #about {
-	font-size: small;
+	font-size: medium;
 }
