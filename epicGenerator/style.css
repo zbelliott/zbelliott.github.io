@@ -5,14 +5,15 @@ body {
   color: whitesmoke;
   text-align: center;
   font-size: x-large;
+    font-family: serif;
 }
 
 a:link {
-    color: blue
+    color: blue;
 }
 
 a:visited {
-    color: red
+    color: red;
 }
 
 /*the title*/
