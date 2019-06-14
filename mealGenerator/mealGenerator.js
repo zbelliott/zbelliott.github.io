@@ -74,7 +74,7 @@ var grammar = {
     "tacoMeal": [
         "#protein.capitalize# tacos with #tacoSide#",
         "#protein.capitalize# fajitas with #tacoSide#",
-        "#protein.capitalize# taco burrito bowl with #tacoSide#",
+        "#protein.capitalize# burrito bowl with #tacoSide#",
     ],
     
     "tacoSide": [
