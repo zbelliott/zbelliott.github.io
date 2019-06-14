@@ -94,9 +94,7 @@ var grammar = {
         "beef",
         "chicken",
         "shrimp",
-        "sausage",
         "pork",
-        "chicken",
         "chicken",
         "chicken",
         "chicken"
